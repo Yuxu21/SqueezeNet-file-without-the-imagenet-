@@ -1,0 +1,1 @@
+The dataset of 10 classes of Imagenet can be obtained from https://github.com/fastai/imagenette?tab=readme-ov-file, or directly downloaded with the link: https://s3.amazonaws.com/fast-ai-imageclas/imagenette2.tgz
